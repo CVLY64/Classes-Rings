@@ -2,7 +2,6 @@ package instructor;
 
 import AbstractMath.Rings.RingElement;
 import AbstractMath.Rings.ZMod.*;
-import AbstractMath.Rings.Structures.Matrix.Matrix;
 import AbstractMath.Rings.Structures.Polynomial.Polynomial;
 
 import org.junit.jupiter.api.Test;

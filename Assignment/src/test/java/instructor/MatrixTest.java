@@ -1,10 +1,8 @@
 package instructor;
 
-import AbstractMath.Rings.RingElement;
 import AbstractMath.Rings.ZMod.*;
 import AbstractMath.Rings.Structures.Matrix.Matrix;
 import AbstractMath.Rings.Structures.Matrix.Builder;
-import AbstractMath.Rings.Structures.Polynomial.Polynomial;
 
 import java.util.ArrayList;
 import java.util.Arrays;
